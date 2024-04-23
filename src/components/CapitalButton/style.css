@@ -1,0 +1,25 @@
+button {
+    color: white;
+    border: none;
+    padding: 2rem;
+    font-size: 1.5rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+button.default {
+    background-color: #EBEBEB;
+    color: black;
+}
+
+button.success {
+    background-color: #00FF00;
+}
+
+button.selected {
+    background-color: #0000FF;
+}
+
+button.error {
+    background-color: #FF0000;
+}
